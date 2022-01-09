@@ -1,0 +1,17 @@
+.contact__top {
+  background-color: black;
+  padding: 25px 0px;
+}
+
+.contact__bot{
+  display: flex;
+  justify-content: space-between;
+}
+
+.contact__form {
+  width: 40%;
+}
+
+.contact__alert-top {
+  width: 40%;
+}
